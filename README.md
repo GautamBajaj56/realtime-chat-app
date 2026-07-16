@@ -141,6 +141,4 @@ The Express backend will serve the frontend build when `NODE_ENV=production`.
 - Database: MongoDB Atlas
 - Media storage: Cloudinary
 
-## License
 
-This project is provided under the ISC license.
